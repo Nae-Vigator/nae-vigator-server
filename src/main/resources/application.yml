@@ -1,0 +1,8 @@
+naver:
+  clova:
+    api-url: ${CLOVA_API_URL}
+    api-key: ${CLOVA_API_KEY}
+    request-id: ${CLOVA_REQUEST_ID}
+    
+server:
+  port: 8080
